@@ -1,0 +1,5 @@
+flask
+requests[socks]
+urllib3
+2captcha-python
+telethon
